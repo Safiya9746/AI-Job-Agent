@@ -71,7 +71,22 @@ AI-Job-Agent/
 5. The generated summary is returned for further processing or future integrations.
 
 ---
+## 📸 Project Screenshots
 
+### AWS Lambda Function
+![AWS Lambda Function](screenshots/lambda-function.png)
+
+### Lambda Test Result
+![Lambda Test Result](screenshots/lambda-test.png)
+
+### Amazon Bedrock Playground
+![Amazon Bedrock Playground](screenshots/bedrock-playground.png)
+
+### Amazon EventBridge Scheduler
+![EventBridge Scheduler](screenshots/eventbridge-schedule.png)
+
+### GitHub Repository
+![GitHub Repository](screenshots/github-repository.png)
 ## 🚀 Installation
 
 Clone the repository
