@@ -27,20 +27,8 @@ The solution leverages an event-driven architecture where Amazon EventBridge Sch
 
 ## 🏗️ Architecture
 
-```text
-Amazon EventBridge Scheduler
-              │
-              ▼
-        AWS Lambda Function
-              │
-              ▼
-     Amazon Bedrock (Nova Lite)
-              │
-              ▼
-     AI Career Summary Output
-```
-
----
+![Architecture Diagram](screenshots/architecture.png)
+<img width="1254" height="1254" alt="architecture" src="https://github.com/user-attachments/assets/704e2abc-d4ba-4367-bea1-633998c3abc6" />
 
 ## ☁️ AWS Services Used
 
