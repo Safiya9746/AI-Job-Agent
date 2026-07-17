@@ -87,6 +87,7 @@ AI-Job-Agent/
 
 ### GitHub Repository
 ![GitHub Repository](screenshots/github-repository.png)
+
 ## 🚀 Installation
 
 Clone the repository
